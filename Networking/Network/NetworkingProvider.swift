@@ -12,7 +12,7 @@ final class NetworkingProvider{
     static let shared = NetworkingProvider()
     
     private let kBaseUrl = "https://gorest.co.in/public-api/"
-    private let ktoken = "d64959bfd6c8ebc3a51ede3844825c2f685ef86ccd4895d4daaf5250fcff1b67"
+    private let ktoken = "put ur token"
     private let kStatusOk = 200...299
     
 //Funcion Asincrona
